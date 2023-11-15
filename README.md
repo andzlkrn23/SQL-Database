@@ -1,5 +1,3 @@
-Here is a README.md file I created for your GitHub repository based on the requirements:
-
 # Database and SQL Script
 
 This repository contains the SQL script to create a database and tables based on a provided ERD diagram, along with sample INSERT statements to populate the tables with data.
