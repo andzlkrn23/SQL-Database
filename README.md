@@ -2,8 +2,9 @@
 
 This repository contains the SQL script to create a database and tables based on a provided ERD diagram, along with sample statements to populate the tables with data.
 
-## Files
 ![pict](PIcture/sample-database-erd.png)
+
+## Files
 
 - `database_script.sql` - SQL script that creates the database, tables, and sample data
 
